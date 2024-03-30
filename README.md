@@ -1,16 +1,13 @@
-### Hi there 👋
+# Sobre Mim
+Estudante de Engenharia de Computação na UTFPR CWB desde 2023
+Estudando Eng Comp desde 2020
+Ainda pra descobrir qual área da computação eu prefiro
 
-<!--
-**vitaoal/vitaoal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Interesses
+- Sistemas Embarcados: Plataforma ESP
+- Processamento de Imagens
+- Desenvolvimento Web
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contato
+- **E-mail:** victorgabrieldealmeida@gmail.com
+- **Localização:** Curitiba
